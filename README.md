@@ -1,6 +1,9 @@
 ## Hi 👋, I'm Harisson Oliveira 
 
-I'm a Tech Lead and developer from São Paulo, SP - Brazil! 
+- 💻 Lead Engineer Technology at everis Brasil
+- 🤔 Back-end technology explorer
+- 🚀 FullStack Developer
+- 🌱 Learning more about Cloud Architecture and DevOps
 
 <div>
   <a href="https://github.com/HarissonOliveira">
