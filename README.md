@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Harisson Oliveira 
 
-- 💻 Lead Engineer Technology at everis Brasil
+- 💻 Lead Engineer Technology at everis Brazil
 - 🤔 Back-end technology explorer
 - 🚀 FullStack Developer
 - 🌱 Learning more about Cloud Architecture and DevOps
