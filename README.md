@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Harisson Oliveira 
 
-- 💻 Lead Engineer Technology at everis Brazil
+- 💻 Lead Engineer Technology at NTT DATA Europe & LATAM
 - 🤔 Back-end technology explorer
 - 🚀 FullStack Developer
 - 🌱 Learning more about Cloud Architecture and DevOps
