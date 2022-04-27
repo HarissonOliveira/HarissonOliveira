@@ -3,6 +3,7 @@
 - 💻 Lead Engineer Technology at NTT DATA Europe & LATAM
 - 🤔 Back-end technology explorer
 - 🚀 FullStack Developer
+- 📴 Mobile Developer
 - 🌱 Learning more about Cloud Architecture and DevOps
 
 <div>
