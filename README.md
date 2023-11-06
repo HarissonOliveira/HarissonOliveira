@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Harisson Oliveira 
 
-- 💻 Lead Engineer Technology at NTT DATA Europe & LATAM
+- 💻 Project Lead of Digital Experience & Tech Lead at NTT DATA Europe & LATAM
 - 🤔 Back-end technology explorer
 - 🚀 FullStack Developer
 - 📴 Mobile Developer
